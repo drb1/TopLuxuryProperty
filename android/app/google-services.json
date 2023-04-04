@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "750094096132",
+    "project_id": "topluxuryproperty-1cbaa",
+    "storage_bucket": "topluxuryproperty-1cbaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750094096132:android:51484b67c262b37e13e251",
+        "android_client_info": {
+          "package_name": "com.topluxuryproperty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750094096132-ls6lstpmfmtp4mra7qhrudl97dnejmnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEZ3HtmDXxai4tKCjFfPB9BLd5uDnYoec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750094096132-ls6lstpmfmtp4mra7qhrudl97dnejmnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
